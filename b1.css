@@ -1,0 +1,38 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.h1 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: lightgray;
+    height: 50px;
+    align-items: center;
+}
+.h3 {
+    font-family: 'Satisfy', cursive; 
+    font-size: x-large;
+    position: relative;
+    right: 40px;   
+}
+.h4 {
+    font-family: arial;
+    font-size: smaller;
+    color: gray;
+}
+.h2 {
+    font-family: arial;
+    font-size: smaller;
+}
+.button {
+  background: gray;
+  color: white;
+  border: solid gray;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  left: 40px;
+}
+
